@@ -6,9 +6,7 @@ End to end Data engineer project and generate dumps or report  weekly ,monthly ,
   </a>
 
   <div id="user-content-toc">
-    <ul>
-      <summary><h1 style="display: inline-block;">Generate Reports from Dumps by using Databricks end to end Project </h1></summary>
-    </ul>
+   
   </div>
   
   <p>Data Processing using DataBricks</p>
@@ -29,7 +27,7 @@ End to end Data engineer project and generate dumps or report  weekly ,monthly ,
 we have Business requirements and we want to do data processing and analysis using PySpark in Databricks Environment.
 we have discussed how we work in real-time in Databricks and PySpark 
 
-### Project live link:https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4339393889004771/3052498808803817/1662184132138436/latest.html
+Project live link:https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4339393889004771/3052498808803817/1662184132138436/latest.html
 
 ### 💾 Dataset
 Dataset link : https://drive.google.com/file/d/13GGX6IVXONhPyYjmkEqfC58PsMQwiIkR/view
