@@ -49,11 +49,11 @@ we have discussed how we work in real-time in Databricks and PySpark
 
 <a name="data-transformation"></a>
 ### ⚙️ Data Transformation
- Data cleaning and processing using PySpark in Databricks Environment.
+ Data processing using PySpark in Databricks Environment.
 # DataBricks Notebook.
 [DataBricks Notebook- Project Live-link](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4339393889004771/3052498808803817/1662184132138436/latest.html)
 
-## Pyspark Project Data frame imported
+## Pyspark Project Dataset imported
 ![Pyspark Project Data frame imported](https://github.com/zBalachandar/Generate-Reports-from-Dumps-by-using-Databricks-end-to-end-Project-09/blob/371e283645c4ed431815ccd7e14901007fc9d23e/Assets/File%20upload%20in%20DBW.png)
 
 ## New Table creation
